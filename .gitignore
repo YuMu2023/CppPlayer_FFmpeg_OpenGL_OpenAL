@@ -71,6 +71,3 @@ Thumbs.db
 *.dll
 *.exe
 
-#Not my ffmpeg
-!ffmpeg/
-
