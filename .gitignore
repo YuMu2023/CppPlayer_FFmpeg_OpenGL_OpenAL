@@ -71,3 +71,7 @@ Thumbs.db
 *.dll
 *.exe
 
+./ffmpeg/*
+./openal-soft-1.21.1/*
+
+
