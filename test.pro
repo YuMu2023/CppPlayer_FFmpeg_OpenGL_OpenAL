@@ -10,13 +10,13 @@ CONFIG += c++11
 
 SOURCES += \
     AVPlayer.cpp \
-    MainWindow.cpp \
+    CppPlayer.cpp \
     MediaUse.cpp \
     main.cpp
 
 HEADERS += \
     AVPlayer.h \
-    MainWindow.h \
+    CppPlayer.h \
     MediaUse.h
 
 FORMS +=
